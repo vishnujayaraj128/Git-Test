@@ -6,3 +6,9 @@ function add(x, y)
 {
     return x+y;
 }
+
+Add(c, b);
+function Add(x, y)
+{
+    return x+y;
+}
